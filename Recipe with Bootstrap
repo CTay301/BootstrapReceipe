@@ -1,0 +1,59 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title></title>
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="http://netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+
+</head>
+<body>
+<div class="container">
+
+<h1 class="page-header">
+    <h1> Bacon, Egg, and Cheese Sandwich </h1>
+   <h2> By Corey Taylor </h2>
+
+<p class="lead"></p>
+<p>I used to make this a lot because, in high school, I worked at Waffle House. Prior to that, I used to never eat breakfast</p>
+
+<h3> Ingredients </h3>
+<div class="panel panel-success">
+  <div class="panel-body">
+        Secret recipe to Corey Taylor's delicious bacon, egg, and cheese sandwich
+            <ul>
+                <li class="odd">Bacon</li>
+                <li class="even">Cheese (Type is up to your preference)</li> 
+                <li class="odd">2 Eggs</li>
+                <li class="even">Texas Toast</li> 
+                <li class="odd">Butter</li>
+                <li class="even">Spicy Mayonaise</li>
+            </ul>
+  </div>
+    
+</div>
+<div class="panel panel-info">
+  <div class="panel-heading">What to do: Delicate Directions</div>
+  <div class="panel-body">
+    <ol>
+                <li class="odd">Spread butter on backside of bread and then place on stove (or alternative method of heating).</li>
+                <br>
+                
+                <li class="even">Place preferred cheese on slice of bread, along with bacon.</li>
+                <br>
+                
+                <li class="odd">Wait for cheese to melt and wait for bread to get as toasted as desired.</li>
+                <br>
+                
+            </ol>
+  </div>
+</div>
+</body>
+</html> 
